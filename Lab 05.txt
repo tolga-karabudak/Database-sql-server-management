@@ -1,0 +1,7 @@
+In this week you will map an EER Diagram to logical (relational) diagram using SQL Server Management Studio (Database Diagram section under the database you created).
+
+a) Use nice names for Columns, Keys, Constraints and Views.  
+b) Use proper domains for the fields that provides a good data representation and compact storage.  
+c) Decide field as 'Nullable' or 'Not null' wisely. 
+d) Determine best 'Primary key' for each table.
+e) Determine proper 'Foreign keys'.
